@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zenject", "Zenject.csproj", "{b3633e0a-73a0-3a6e-db8a-6356de1c0a73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zenject-UnitTests-Editor", "Zenject-UnitTests-Editor.csproj", "{75d8e69a-d8fc-8bb8-b04f-64205d257e23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zenject-IntegrationTests", "Zenject-IntegrationTests.csproj", "{639c5fcb-a402-6e80-b3f7-9be1f53dee7d}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniTask.Linq", "UniTask.Linq.csproj", "{64e6463d-0e62-7617-8efd-d4508e1ae3f2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniTask", "UniTask.csproj", "{23d1ffec-b298-f704-6032-562964988478}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniRx", "UniRx.csproj", "{62d33607-5df2-73f5-b9da-b5c28a8b5850}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zenject-IntegrationTests-Editor", "Zenject-IntegrationTests-Editor.csproj", "{a595fe02-e391-cbc7-a098-10887e50cefe}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zenject-ReflectionBaking-Editor", "Zenject-ReflectionBaking-Editor.csproj", "{85c55cec-8a89-4666-ed3c-760edfbfc407}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{0052a8ca-fbfc-7f31-6d11-41cf48b87115}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zenject-Editor", "Zenject-Editor.csproj", "{4a0ae767-7b51-67d0-9970-45a2762d254b}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniRx.Examples", "UniRx.Examples.csproj", "{4afd184a-8e99-3423-ac8e-a2b0f5daa306}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniTask.Addressables", "UniTask.Addressables.csproj", "{401b0d93-80bf-f0d1-7cad-5aedc0b0d849}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zenject-TestFramework", "Zenject-TestFramework.csproj", "{dad8f27e-1154-f699-54cf-0d504da8fe43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniTask.Editor", "UniTask.Editor.csproj", "{9e891b96-e1df-b1f8-afde-8486af3a449d}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zenject-PoolMonitor-Editor", "Zenject-PoolMonitor-Editor.csproj", "{d8c2d511-aefc-af6e-bb14-84ac704051a4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniTask.TextMeshPro", "UniTask.TextMeshPro.csproj", "{e83ef94f-c49b-a7ee-37c4-d0993dc74c51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniTask.DOTween", "UniTask.DOTween.csproj", "{03812593-cc1f-96d3-7175-0d78ff586894}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{312b95d7-b4dd-2a20-96c9-5c4f89662d61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{b3633e0a-73a0-3a6e-db8a-6356de1c0a73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b3633e0a-73a0-3a6e-db8a-6356de1c0a73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75d8e69a-d8fc-8bb8-b04f-64205d257e23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75d8e69a-d8fc-8bb8-b04f-64205d257e23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{639c5fcb-a402-6e80-b3f7-9be1f53dee7d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{639c5fcb-a402-6e80-b3f7-9be1f53dee7d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64e6463d-0e62-7617-8efd-d4508e1ae3f2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64e6463d-0e62-7617-8efd-d4508e1ae3f2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23d1ffec-b298-f704-6032-562964988478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23d1ffec-b298-f704-6032-562964988478}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62d33607-5df2-73f5-b9da-b5c28a8b5850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62d33607-5df2-73f5-b9da-b5c28a8b5850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a595fe02-e391-cbc7-a098-10887e50cefe}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a595fe02-e391-cbc7-a098-10887e50cefe}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85c55cec-8a89-4666-ed3c-760edfbfc407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85c55cec-8a89-4666-ed3c-760edfbfc407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0052a8ca-fbfc-7f31-6d11-41cf48b87115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0052a8ca-fbfc-7f31-6d11-41cf48b87115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4a0ae767-7b51-67d0-9970-45a2762d254b}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4a0ae767-7b51-67d0-9970-45a2762d254b}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4afd184a-8e99-3423-ac8e-a2b0f5daa306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4afd184a-8e99-3423-ac8e-a2b0f5daa306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{401b0d93-80bf-f0d1-7cad-5aedc0b0d849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{401b0d93-80bf-f0d1-7cad-5aedc0b0d849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{dad8f27e-1154-f699-54cf-0d504da8fe43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{dad8f27e-1154-f699-54cf-0d504da8fe43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9e891b96-e1df-b1f8-afde-8486af3a449d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9e891b96-e1df-b1f8-afde-8486af3a449d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{d8c2d511-aefc-af6e-bb14-84ac704051a4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{d8c2d511-aefc-af6e-bb14-84ac704051a4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e83ef94f-c49b-a7ee-37c4-d0993dc74c51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e83ef94f-c49b-a7ee-37c4-d0993dc74c51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03812593-cc1f-96d3-7175-0d78ff586894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03812593-cc1f-96d3-7175-0d78ff586894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{312b95d7-b4dd-2a20-96c9-5c4f89662d61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{312b95d7-b4dd-2a20-96c9-5c4f89662d61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
