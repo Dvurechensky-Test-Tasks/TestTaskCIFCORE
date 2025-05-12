@@ -39,7 +39,9 @@
 ![alt text](Media/plan.png)
 
 💨 Видео
-<video controls src="Media/previewVideo.mp4" title="Title"></video>
+<p align="center">
+    <img src="Media/previewVideo.gif" height="100%" width="100%">
+</p>
 
 ## 👀 Сборка 👀
 - После удаления папки `Library` перед релизом сбрасывается выбор платформы под которую создавался проект.

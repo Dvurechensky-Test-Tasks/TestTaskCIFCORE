@@ -37,6 +37,7 @@ public class NetForecastService : INetForecastService
     {
         try
         {
+            Debug.Log("[NetForecastService] GetForecastAsync...");
             // Проверка отмены перед началом запроса
             cancellationToken.ThrowIfCancellationRequested();
             
