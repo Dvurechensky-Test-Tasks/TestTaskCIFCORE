@@ -1,30 +1,38 @@
+﻿/*
+ * Author: Nikolay Dvurechensky
+ * Site: https://www.dvurechensky.pro/
+ * Gmail: dvurechenskysoft@gmail.com
+ * Last Updated: 12 мая 2025 08:07:05
+ * Version: 1.0.1
+ */
+
 using System.ComponentModel;
 using UnityEngine;
 using UnityEngine.UI;
 
 public enum NavStateEnum
 {
-    [Description("Окно погоды")]
+    [Description("РћРєРЅРѕ РїРѕРіРѕРґС‹")]
     Forecast,
-    [Description("Окно фактов")]
+    [Description("РћРєРЅРѕ С„Р°РєС‚РѕРІ")]
     Facts
 }
 
 public class NavigateController : MonoBehaviour
 {
     [Space(20)]
-    [Header("Кнопка открытия окна фактов")]
+    [Header("РљРЅРѕРїРєР° РѕС‚РєСЂС‹С‚РёСЏ РѕРєРЅР° С„Р°РєС‚РѕРІ")]
     public Button FactsOpen;
     [Space(10)]
-    [Header("Кнопка открытия окна погоды")]
+    [Header("РљРЅРѕРїРєР° РѕС‚РєСЂС‹С‚РёСЏ РѕРєРЅР° РїРѕРіРѕРґС‹")]
     public Button ForecastOpen;
     
     [Space(50)]
     
-    [Header("Менеджер управления таблицей погоды")]
+    [Header("РњРµРЅРµРґР¶РµСЂ СѓРїСЂР°РІР»РµРЅРёСЏ С‚Р°Р±Р»РёС†РµР№ РїРѕРіРѕРґС‹")]
     public ForecastTableManager ForecastTableManager;
     [Space(10)]
-    [Header("Менеджер управления таблицей фактов")]
+    [Header("РњРµРЅРµРґР¶РµСЂ СѓРїСЂР°РІР»РµРЅРёСЏ С‚Р°Р±Р»РёС†РµР№ С„Р°РєС‚РѕРІ")]
     public FactTableManager FactTableManager;
     private void Awake()
     {

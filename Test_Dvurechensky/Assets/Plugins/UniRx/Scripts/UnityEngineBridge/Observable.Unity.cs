@@ -1,4 +1,12 @@
-﻿#if !(UNITY_4_0 || UNITY_4_1 || UNITY_4_2 || UNITY_4_3 || UNITY_4_4 || UNITY_4_5 || UNITY_4_6 || UNITY_5_0 || UNITY_5_1 || UNITY_5_2)
+﻿/*
+ * Author: Nikolay Dvurechensky
+ * Site: https://www.dvurechensky.pro/
+ * Gmail: dvurechenskysoft@gmail.com
+ * Last Updated: 12 мая 2025 08:07:05
+ * Version: 1.0.1
+ */
+
+#if !(UNITY_4_0 || UNITY_4_1 || UNITY_4_2 || UNITY_4_3 || UNITY_4_4 || UNITY_4_5 || UNITY_4_6 || UNITY_5_0 || UNITY_5_1 || UNITY_5_2)
 #define SupportCustomYieldInstruction
 #endif
 

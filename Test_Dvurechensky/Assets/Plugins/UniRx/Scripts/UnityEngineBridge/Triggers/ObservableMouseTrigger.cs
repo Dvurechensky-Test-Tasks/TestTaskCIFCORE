@@ -1,4 +1,12 @@
-﻿#if !(UNITY_IPHONE || UNITY_ANDROID || UNITY_METRO)
+﻿/*
+ * Author: Nikolay Dvurechensky
+ * Site: https://www.dvurechensky.pro/
+ * Gmail: dvurechenskysoft@gmail.com
+ * Last Updated: 12 мая 2025 08:07:05
+ * Version: 1.0.1
+ */
+
+#if !(UNITY_IPHONE || UNITY_ANDROID || UNITY_METRO)
 
 using System; // require keep for Windows Universal App
 using UnityEngine;

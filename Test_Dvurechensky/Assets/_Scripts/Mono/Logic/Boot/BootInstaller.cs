@@ -1,7 +1,15 @@
+﻿/*
+ * Author: Nikolay Dvurechensky
+ * Site: https://www.dvurechensky.pro/
+ * Gmail: dvurechenskysoft@gmail.com
+ * Last Updated: 12 мая 2025 08:07:05
+ * Version: 1.0.1
+ */
+
 using Zenject;
 
 /// <summary>
-/// Контейнер регистрации объектов
+/// РљРѕРЅС‚РµР№РЅРµСЂ СЂРµРіРёСЃС‚СЂР°С†РёРё РѕР±СЉРµРєС‚РѕРІ
 /// </summary>
 public class BootInstaller : MonoInstaller
 {

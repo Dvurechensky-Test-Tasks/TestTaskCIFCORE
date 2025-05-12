@@ -1,4 +1,12 @@
-﻿// This code is borrwed from Rx Official and some modified.
+﻿/*
+ * Author: Nikolay Dvurechensky
+ * Site: https://www.dvurechensky.pro/
+ * Gmail: dvurechenskysoft@gmail.com
+ * Last Updated: 12 мая 2025 08:07:05
+ * Version: 1.0.1
+ */
+
+// This code is borrwed from Rx Official and some modified.
 
 // Copyright (c) Microsoft Open Technologies, Inc. All rights reserved. See License.txt in the project root for license information.
 

@@ -1,4 +1,12 @@
-﻿#if !(UNITY_METRO || UNITY_WP8)
+﻿/*
+ * Author: Nikolay Dvurechensky
+ * Site: https://www.dvurechensky.pro/
+ * Gmail: dvurechenskysoft@gmail.com
+ * Last Updated: 12 мая 2025 08:07:05
+ * Version: 1.0.1
+ */
+
+#if !(UNITY_METRO || UNITY_WP8)
 
 #if UNITY_2018_3_OR_NEWER
 #pragma warning disable CS0618
