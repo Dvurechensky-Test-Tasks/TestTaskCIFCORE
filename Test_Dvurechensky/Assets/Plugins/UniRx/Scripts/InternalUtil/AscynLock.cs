@@ -1,9 +1,9 @@
 ﻿/*
  * Author: Nikolay Dvurechensky
- * Site: https://www.dvurechensky.pro/
+ * Site: https://sites.google.com/view/dvurechensky
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 12 мая 2025 08:07:05
- * Version: 1.0.1
+ * Last Updated: 28 августа 2025 07:05:58
+ * Version: 1.0.6
  */
 
 // this code is borrowed from RxOfficial(rx.codeplex.com) and modified
