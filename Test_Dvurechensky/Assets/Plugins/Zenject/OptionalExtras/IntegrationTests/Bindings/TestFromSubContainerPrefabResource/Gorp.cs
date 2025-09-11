@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://sites.google.com/view/dvurechensky
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 10 сентября 2025 14:28:34
- * Version: 1.0.19
+ * Last Updated: 11 сентября 2025 06:50:30
+ * Version: 1.0.20
  */
 
 namespace Zenject.Tests.Bindings.FromSubContainerPrefabResource
