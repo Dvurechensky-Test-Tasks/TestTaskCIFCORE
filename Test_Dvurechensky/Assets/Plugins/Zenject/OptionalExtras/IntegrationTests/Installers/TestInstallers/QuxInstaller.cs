@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://sites.google.com/view/dvurechensky
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 19 сентября 2025 06:50:27
- * Version: 1.0.28
+ * Last Updated: 20 сентября 2025 14:13:53
+ * Version: 1.0.29
  */
 
 namespace Zenject.Tests.Installers.Installers
