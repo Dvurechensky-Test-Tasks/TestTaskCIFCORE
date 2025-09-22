@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://sites.google.com/view/dvurechensky
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 21 сентября 2025 06:50:27
- * Version: 1.0.30
+ * Last Updated: 22 сентября 2025 06:50:27
+ * Version: 1.0.31
  */
 
 #pragma warning disable 0168
