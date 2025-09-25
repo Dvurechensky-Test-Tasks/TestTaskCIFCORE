@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://sites.google.com/view/dvurechensky
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 24 сентября 2025 06:50:28
- * Version: 1.0.33
+ * Last Updated: 25 сентября 2025 06:50:28
+ * Version: 1.0.34
  */
 
 #if !(NETFX_CORE || NET_4_6 || NET_STANDARD_2_0 || UNITY_WSA_10_0)
