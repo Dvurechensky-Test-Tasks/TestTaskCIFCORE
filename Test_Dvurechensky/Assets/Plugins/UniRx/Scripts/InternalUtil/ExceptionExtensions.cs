@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://sites.google.com/view/dvurechensky
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 29 октября 2025 06:50:27
- * Version: 1.0.69
+ * Last Updated: 30 октября 2025 17:05:47
+ * Version: 1.0.70
  */
 
 namespace UniRx.InternalUtil
