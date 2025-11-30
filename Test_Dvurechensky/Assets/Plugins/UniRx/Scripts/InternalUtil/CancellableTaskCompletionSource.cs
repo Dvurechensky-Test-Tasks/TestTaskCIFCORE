@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://sites.google.com/view/dvurechensky
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 30 ноября 2025 14:32:09
- * Version: 1.0.100
+ * Last Updated: 30 ноября 2025 14:36:10
+ * Version: 1.0.101
  */
 
 #if CSHARP_7_OR_LATER || (UNITY_2018_3_OR_NEWER && (NET_STANDARD_2_0 || NET_4_6))
