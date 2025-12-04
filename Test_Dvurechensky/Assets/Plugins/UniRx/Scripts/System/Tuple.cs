@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://sites.google.com/view/dvurechensky
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 03 декабря 2025 11:18:54
- * Version: 1.0.104
+ * Last Updated: 04 декабря 2025 13:18:19
+ * Version: 1.0.105
  */
 
 // defined from .NET Framework 4.0 and NETFX_CORE
