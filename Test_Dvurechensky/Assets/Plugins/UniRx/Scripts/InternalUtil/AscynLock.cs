@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://sites.google.com/view/dvurechensky
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 20 декабря 2025 06:50:28
- * Version: 1.0.121
+ * Last Updated: 21 декабря 2025 16:08:31
+ * Version: 1.0.122
  */
 
 // this code is borrowed from RxOfficial(rx.codeplex.com) and modified
