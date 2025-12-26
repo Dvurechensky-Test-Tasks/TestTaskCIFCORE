@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://sites.google.com/view/dvurechensky
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 25 декабря 2025 09:29:10
- * Version: 1.0.126
+ * Last Updated: 26 декабря 2025 13:30:14
+ * Version: 1.0.127
  */
 
 namespace Zenject.Asteroids
