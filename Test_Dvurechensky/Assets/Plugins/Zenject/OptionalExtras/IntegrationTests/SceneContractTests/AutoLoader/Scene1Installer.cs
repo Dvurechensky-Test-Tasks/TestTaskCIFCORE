@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://sites.google.com/view/dvurechensky
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 28 февраля 2026 15:54:06
- * Version: 1.0.191
+ * Last Updated: 01 марта 2026 16:35:26
+ * Version: 1.0.192
  */
 
 namespace Zenject.Tests.AutoLoadSceneTests
