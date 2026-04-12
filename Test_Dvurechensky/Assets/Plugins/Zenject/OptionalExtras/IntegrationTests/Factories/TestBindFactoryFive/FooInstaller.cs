@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://dvurechensky.pro/
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 11 апреля 2026 13:37:16
- * Version: 1.0.233
+ * Last Updated: 12 апреля 2026 14:13:56
+ * Version: 1.0.234
  */
 
 namespace Zenject.Tests.Factories.BindFactoryFive
