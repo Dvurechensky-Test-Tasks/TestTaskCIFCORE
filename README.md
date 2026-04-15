@@ -1,6 +1,6 @@
 <p align="center">✨Dvurechensky✨</p>
 
-<h1 align="center"> Тестовое задание компании 🌟 ЦИФКОР 🌟</h1>
+<h1 align="center"> Test Assignment for 🌟 CIFCORE 🌟 Company</h1>
 
 <p align="center">
     <p align="center">
@@ -10,55 +10,69 @@
     </p>
 </p>
 
-# ✨ Оглавление
+<div align="center" style="margin: 20px 0; padding: 10px; background: #1c1917; border-radius: 10px;">
+  <strong>🌐 Language: </strong>
+  
+  <a href="./README.ru.md" style="color: #F5F752; margin: 0 10px;">
+    🇷🇺 Russian
+  </a>
+  | 
+  <span style="color: #0891b2; margin: 0 10px;">
+    ✅ 🇺🇸 English (current)
+  </span>
+</div>
 
-- [✨ Оглавление](#-оглавление)
-  - [📕 ВНИМАНИЕ 📕](#-внимание-)
-  - [Технологии 👤](#технологии-)
-    - [Пояснения 📗](#пояснения-)
-  - [Информация от компании 🌁](#информация-от-компании-)
-  - [Информация от меня 🌊](#информация-от-меня-)
-  - [👀 Сборка 👀](#-сборка-)
+---
 
-## 📕 ВНИМАНИЕ 📕
+# ✨ Table of Contents
 
-- В задаче я не увидел каков должен быть BUILD, под какие системы собрать сборки, поэтому счёл не собирать SDK и не класть их в репозиторий
+- [✨ Table of Contents](#-table-of-contents)
+  - [📕 ATTENTION 📕](#-attention-)
+  - [Technologies 👤](#technologies-)
+    - [Notes 📗](#notes-)
+  - [Information from the Company 🌁](#information-from-the-company-)
+  - [Information from Me 🌊](#information-from-me-)
+  - [👀 Build 👀](#-build-)
 
-## Технологии 👤
+## 📕 ATTENTION 📕
+
+- The task did not specify what kind of BUILD was required or for which platforms the builds should be created, so I decided not to build SDKs or include them in the repository
+
+## Technologies 👤
 
 - 📋 UniTask
 - 📋 Addressables
 - 📋 Zenject
-- ✂️ UniRx - так и не удалось его использовать
+- ✂️ UniRx — was not able to integrate it in the end
 
-### Пояснения 📗
+### Notes 📗
 
-- Есть `отдельный ObjectPool` который призван централизованно отдавать объекты таблицам.Использование Addressables для кэширования объектов также вписывается в эту логику.
-- Использую контроллеры для управления состоянием и логикой взаимодействия между компонентами, что вполне соответствует паттерну `MVC`
-- `MVP` в моём контексте тоже возможно: контроллеры (как модели) взаимодействуют с представлениями, обновляя их в зависимости от данных. Разделение ответственности между логикой и интерфейсом также соблюдается.
-- **`Zenject (Factory/Pool)`** - Активно использую Zenject для инъекции зависимостей. Инъекции позволяют отделить логику создания объектов от их использования, что идеально подходит для использования паттернов типа Factory.
+- There is a **separate ObjectPool** designed to centrally provide objects to tables. Using Addressables for object caching also fits naturally into this logic.
+- I use controllers to manage state and interaction logic between components, which aligns well with the `MVC` pattern.
+- `MVP` is also applicable in my context: controllers (as models) interact with views, updating them based on data. Separation of concerns between logic and UI is maintained.
+- **`Zenject (Factory/Pool)`** — actively used for dependency injection. DI allows separating object creation logic from usage, which is ideal for patterns like Factory.
 
-- 📘 В дополнении я сделал кеширование иконок погоды после первой загрузки их с сервера
+- 📘 Additionally, I implemented caching for weather icons after their first load from the server
 
-## Информация от компании 🌁
+## Information from the Company 🌁
 
-[Текст тестового задания](<Media/Тестовое задание Cifkor 17.02.2025.pdf>)
+[Task description](<Media/Тестовое задание Cifkor 17.02.2025.pdf>)
 
-## Информация от меня 🌊
+## Information from Me 🌊
 
-💨 Я своё понимание этого задания постарался описать в этом изображении❕
+💨 I tried to describe my understanding of the task in this image ❕
 
 ![alt text](Media/plan.png)
 
-💨 Видео
+💨 Video
 
 <p align="center">
     <img src="Media/previewVideo.gif" height="100%" width="100%">
 </p>
 
-## 👀 Сборка 👀
+## 👀 Build 👀
 
-- После удаления папки `Library` перед релизом сбрасывается выбор платформы под которую создавался проект.
+- After deleting the `Library` folder before release, the selected build platform resets
 
 ![alt text](Media/build_1.png)
 ![alt text](Media/build_2.png)
